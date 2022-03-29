@@ -1,0 +1,660 @@
+{
+  "Week 1": {
+    "Wed 2022-01-12": [
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      },
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      }
+    ],
+    "Thu 2022-01-13": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      },
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Fri 2022-01-14": [
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      }
+    ],
+    "Sat 2022-01-15": [
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      },
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      }
+    ],
+    "Sun 2022-01-16": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ]
+  },
+  "Week 2": {
+    "Wed 2022-01-19": [
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      },
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Thu 2022-01-20": [
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ],
+    "Fri 2022-01-21": [
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      },
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      }
+    ],
+    "Sat 2022-01-22": [
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Sun 2022-01-23": [
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      }
+    ]
+  },
+  "Week 3": {
+    "Wed 2022-01-26": [
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      },
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      }
+    ],
+    "Thu 2022-01-27": [
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      },
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      }
+    ],
+    "Fri 2022-01-28": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      }
+    ],
+    "Sat 2022-01-29": [
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      },
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      }
+    ],
+    "Sun 2022-01-30": [
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      }
+    ]
+  },
+  "Week 4": {
+    "Wed 2022-02-09": [
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      },
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      }
+    ],
+    "Thu 2022-02-10": [
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      },
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ],
+    "Fri 2022-02-11": [
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Sat 2022-02-12": [
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      },
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Sun 2022-02-13": [
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      }
+    ]
+  },
+  "Week 5": {
+    "Wed 2022-02-16": [
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ],
+    "Thu 2022-02-17": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      },
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      }
+    ],
+    "Fri 2022-02-18": [
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      }
+    ],
+    "Sat 2022-02-19": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      },
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      }
+    ],
+    "Sun 2022-02-20": [
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      },
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      }
+    ]
+  },
+  "Week 6": {
+    "Wed 2022-02-23": [
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      },
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Thu 2022-02-24": [
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      },
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Fri 2022-02-25": [
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      },
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Sat 2022-02-26": [
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      }
+    ],
+    "Sun 2022-02-27": [
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      },
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      }
+    ]
+  },
+  "Week 7": {
+    "Wed 2022-03-02": [
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      },
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      }
+    ],
+    "Thu 2022-03-03": [
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      }
+    ],
+    "Fri 2022-03-04": [
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      },
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Sat 2022-03-05": [
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      }
+    ],
+    "Sun 2022-03-06": [
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      },
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      }
+    ]
+  },
+  "Week 8": {
+    "Wed 2022-03-09": [
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      },
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Thu 2022-03-10": [
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      }
+    ],
+    "Fri 2022-03-11": [
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "T1",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812"
+      },
+      {
+        "left_team_name": "DK",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424",
+        "right_team_name": "NS",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106"
+      }
+    ],
+    "Sat 2022-03-12": [
+      {
+        "left_team_name": "LSB",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      },
+      {
+        "left_team_name": "HLE",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ],
+    "Sun 2022-03-13": [
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      },
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      }
+    ]
+  },
+  "Week 9": {
+    "Wed 2022-03-16": [
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "KT",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510"
+      },
+      {
+        "left_team_name": "GEN",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431",
+        "right_team_name": "BRO",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619"
+      }
+    ],
+    "Thu 2022-03-17": [
+      {
+        "left_team_name": "DRX",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      },
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      }
+    ],
+    "Fri 2022-03-18": [
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      },
+      {
+        "left_team_name": "KT",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c8/KT_Rolsterlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605165510",
+        "right_team_name": "GEN",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/3/3b/Gen.Glogo_std.png/revision/latest/scale-to-width-down/36?cb=20210806133431"
+      }
+    ],
+    "Sat 2022-03-19": [
+      {
+        "left_team_name": "NS",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/0/01/Nongshim_RedForcelogo_std.png/revision/latest/scale-to-width-down/36?cb=20210605230106",
+        "right_team_name": "HLE",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/e/e9/Hanwha_Life_Esportslogo_std.png/revision/latest/scale-to-width-down/36?cb=20211024145236"
+      },
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "DK",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/9/9a/DWG_KIAlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210107012424"
+      }
+    ],
+    "Sun 2022-03-20": [
+      {
+        "left_team_name": "KDF",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252",
+        "right_team_name": "LSB",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/7/75/Liiv_SANDBOXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210530043630"
+      },
+      {
+        "left_team_name": "T1",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/f/fc/T1logo_std.png/revision/latest/scale-to-width-down/36?cb=20191128095812",
+        "right_team_name": "DRX",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/5/58/DRXlogo_std.png/revision/latest/scale-to-width-down/36?cb=20191010064713"
+      }
+    ]
+  },
+  "Tiebreakers": {
+    "Sun 2022-03-20": [
+      {
+        "left_team_name": "BRO",
+        "left_team_logo": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/1/1e/Fredit_BRIONlogo_std.png/revision/latest/scale-to-width-down/36?cb=20210308142619",
+        "right_team_name": "KDF",
+        "right_logo_name": "https://static.wikia.nocookie.net/lolesports_gamepedia_en/images/c/c1/Kwangdong_Freecslogo_std.png/revision/latest/scale-to-width-down/36?cb=20220111183252"
+      }
+    ]
+  }
+}
