@@ -1,0 +1,6 @@
+FrontEnd: 
+	mainUI: https://github.com/laranja14/cloud_team_project
+BackEnd: 
+	lck_schedule_crawler: https://github.com/JeongJin984/loljoa_lck_schedule_crawler
+	db_init: https://github.com/JeongJin984/loljoa_DBInit
+	schedule_apiserver: https://github.com/JeongJin984/loljoa_lck_schedule_apiserver
